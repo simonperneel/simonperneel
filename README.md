@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simonperneel
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Machine Learning, cloud computing
 - 🌱 I’m currently learning on Big Data analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
