@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonperneel
-- 👀 I’m interested in Machine Learning, cloud computing
-- 🌱 I’m currently learning on Big Data analytics
+- 👀 I’m interested in Machine Learning, Cloud Computing
+- 🌱 I’m currently learning on working with Amazon AWS 🤔
 - 📫 How to reach me ...
 
 <!---
