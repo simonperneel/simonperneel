@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @simonperneel
-- 👀 I’m interested in Machine Learning, Cloud Computing
+Welcome, take a seat!
+
+- 👀 I’m interested in Machine Learning, Cloud Computing, Data visualisation. 
 - 🌱 I’m currently learning on how to work with Amazon AWS 🤔
-- 📫 How to reach me ...
+- 📫 How to reach me: Mail, Github, LinkedIn, carrier pigeon, ...
 
 <!---
 simonperneel/simonperneel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
