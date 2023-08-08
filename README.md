@@ -1,4 +1,4 @@
-Welcome, take a seat!
+Welcome, take a seat! 👋🪑
 
 - 👀 I’m interested in Machine Learning, Cloud Computing, Data visualisation. 
 - 🌱 I’m currently learning on how to work with Amazon AWS 🤔
